@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Custom Music Discs",
+    "name": "§l§cCustom Music Discs!",
+    "uuid": "3cf8940a-3137-4f46-b9ca-d831a20f0eae",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 18, 30]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "f45cb5ab-0bbc-4d17-a0fc-7912c0951992",
+      "version": [1, 0, 0]
+    }
+  ]
+}
